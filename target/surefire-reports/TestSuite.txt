@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 52.171 s <<< FAILURE! - in TestSuite
+SubmitOrder(Dinendra_Deb.SeleniumFrameworkDesign.Tests.SubmitOrderTest)  Time elapsed: 26.385 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.findElement(org.openqa.selenium.By)" because "e" is null
+	at Dinendra_Deb.SeleniumFrameworkDesign.Tests.SubmitOrderTest.SubmitOrder(SubmitOrderTest.java:24)
+
